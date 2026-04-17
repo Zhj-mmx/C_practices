@@ -1,0 +1,13 @@
+{
+    "C_Cpp.default.compilerPath": "C:\\mingw64\\bin\\gcc.exe",
+    "C_Cpp.default.intelliSenseEngine": "default",
+    "C_Cpp.errorSquiggles": "EnabledIfIncludesResolve",
+    "C_Cpp.formatting": "vcFormat",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "files.associations": {
+        "*.h": "c"
+    },
+    "files.encoding": "utf8",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt"
+}
