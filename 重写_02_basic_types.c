@@ -21,7 +21,7 @@ int main() {
     printf("x = %.1f, y = %.1f\n", x, y);
     printf("x + y = %.2f\n", x + y);
     printf("x  - y = %.2f\n" x - y)
-        printf("x × y = %.2f\n", x * y);
+    printf("x × y = %.2f\n", x * y);
     printf("x ÷ y = %.2f\n\n", x / y);
 
     char ch = 'A';
